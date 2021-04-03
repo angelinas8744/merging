@@ -1,6 +1,6 @@
 # merging
 3/25: Merging classwork.
-This 
+that
 is
 some 
 text.
